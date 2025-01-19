@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=wF3g76z14Gs
+// https://github.com/Shin-sibainu/next.js13-fullstack-blog
 
 command history
 npm i prisma --save-dev
